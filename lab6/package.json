@@ -1,0 +1,14 @@
+{
+  "name": "6",
+  "version": "0.0.0",
+  "description": "лаб6",
+  "main": "server.js",
+  "author": {
+    "name": "selisej"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0"
+  }
+}
